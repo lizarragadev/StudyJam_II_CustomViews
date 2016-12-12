@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudyJam_II_CustomViews</string>
+    <string name="main.tv.mensaje">Donde los videos y las personalidades se hacen realmente grandes</string>
+    <string name="main.tv.registrate">Registrate</string>
+    <string name="main.tv.iniciasesion">Iniciar Sesion</string>
+    <string name="main.btn.regis.twitter">Registrate con Twitter</string>
+    <string name="main.btn.regis.correo">Registrate con tu correo electronico</string>
+</resources>

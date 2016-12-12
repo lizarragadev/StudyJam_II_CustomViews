@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main.iv.ancho">70dp</dimen>
+    <dimen name="main.height.cero">0dp</dimen>
+    <dimen name="main.tv.textsize.mensaje">15sp</dimen>
+    <dimen name="main.tv.margintop">10dp</dimen>
+    <dimen name="main.tv.padding">10dp</dimen>
+    <dimen name="main.btn.textsize">16sp</dimen>
+
+</resources>
